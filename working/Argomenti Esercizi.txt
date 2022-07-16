@@ -13,8 +13,8 @@ L12     ->  Nested Sampling - Model Selection
 L13     ->  Classification/Clustering                (Handwritten Digits)
 L14     ->  Clustering - KDE - Gaussian Mixture      (Gamma Ray Burst)
 L15     ->  Dimensionality Reduction                 (Noisy Detector)
-L17     ->  Polynomial Regression - Validation       (Supernovae-Redshift)
+L17     ->  Polynomial Regression                    (Supernovae-Redshift)
 L18     ->  Non-linear regression                    (Supernovae-Redshift - 2)
 L19     ->  Classification (Roc curves, completeness, contamination) (Galaxy - Quasar Classification)
-L20     ->  Classification (Roc curves, completeness, contamination) (Gravitational Waves Detectebility)
+L20     ->  Classification (Roc curves, completeness, contamination) (Gravitational Waves Detectability)
 L22     ->  Neural Network
