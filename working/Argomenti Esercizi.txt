@@ -1,0 +1,20 @@
+L02_1   ->  Monty Hall
+L02_2   ->  Transformation of random variables
+L03_1   ->  Mean and Variance
+L03_2   ->  MC Integration
+L03_3   ->  Poisson Distribution
+L04     ->  Rejection - Inverse Transform Sampling   (Cloning Quasar Redshift)
+L05     ->  Maximum likelihood Estimation            (Position of a Quasar)
+L06     ->  Gaussian Mixture
+L07     ->  Kernel Density Estimastion - KS Test     (Irreducible Mass)
+L10     ->  Markov Chain                             (Wheather predictions)
+L11     ->  Regression
+L12     ->  Nested Sampling - Model Selection
+L13     ->  Classification/Clustering                (Handwritten Digits)
+L14     ->  Clustering - KDE - Gaussian Mixture      (Gamma Ray Burst)
+L15     ->  Dimensionality Reduction                 (Noisy Detector)
+L17     ->  Polynomial Regression - Validation       (Supernovae-Redshift)
+L18     ->  Non-linear regression                    (Supernovae-Redshift - 2)
+L19     ->  Classification (Roc curves, completeness, contamination) (Galaxy - Quasar Classification)
+L20     ->  Classification (Roc curves, completeness, contamination) (Gravitational Waves Detectebility)
+L22     ->  Neural Network
