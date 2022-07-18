@@ -142,7 +142,7 @@ if(B1>B2):
 	pref_model = "Burst Model"
 else:
 	pref_model = "Gaussian Model"
-	B=-1*B
+	B=1/B
 
 class_list=["No","Substantial","Strong","Very Strong","Decisive"]
 index=math.floor(np.log10(B)*2)
