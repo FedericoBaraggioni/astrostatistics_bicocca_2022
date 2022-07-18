@@ -12,6 +12,8 @@ from astroML.utils import pickle_results
 import warnings
 warnings.simplefilter(action='ignore', category=RuntimeWarning)
 
+np.random.seed(18)
+
 #----------------------------------------------------------------------------#
 #Parameter Constraints
 #----------------------------------------------------------------------------#
