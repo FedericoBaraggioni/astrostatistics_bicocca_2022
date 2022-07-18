@@ -75,7 +75,8 @@ grafici(time,S_,'ICA components')
 #-----------------------------------------------------------------------------------#
 #FIT scipy
 #-----------------------------------------------------------------------------------#
-Numero=input("Input ICA component to fit: ")
+#Numero=input("Input ICA component to fit: ")
+Numero=2
 
 mysine = S_[:,int(Numero)]
 plt.plot(time,mysine)
