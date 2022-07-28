@@ -47,7 +47,7 @@ index_max = sorted_indices[-1]
 mu_meas=xgrid[index_max]
 print("L is maximized at %.3f" % mu_meas)
 #Analytical maximum likelihood estimator
-print("Theorical mu: ", round(np.sum(data/uncertainties**2)/np.sum(uncertainties**-2),3))
+print("Theoretical mu: ", round(np.sum(data/uncertainties**2)/np.sum(uncertainties**-2),3))
 
 
 #-----------------------------------------------------------------------------------#
@@ -58,7 +58,7 @@ deriv=np.sqrt(-1*np.diff(log_L, n=2)/((xgrid[1]-xgrid[0])**2))
 
 sigma_mu=1/deriv[0]
 print("Uncertainty on mu: %.3f" % sigma_mu)
-print('Theorical sigma: ', round(np.sum(uncertainties**-2)**(-1./2),3))
+print('Theoretical sigma: ', round(np.sum(uncertainties**-2)**(-1./2),3))
 
 
 #-----------------------------------------------------------------------------------#
