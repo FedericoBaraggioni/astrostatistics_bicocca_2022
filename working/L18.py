@@ -213,7 +213,7 @@ if(B1>B2):
 	pref_model = "Dark Energy"
 else:
 	pref_model = "No Dark Energy"
-	B=-1*B
+	B=1/B
 
 class_list=["No","Substantial","Strong","Very Strong","Decisive"]
 index=math.floor(np.log10(B)*2)
